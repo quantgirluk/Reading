@@ -1,2 +1,2 @@
 # Reading
-Quotes and Notes from the books that I am reading.
+Quotes, notes, and random thoughts from the books 📚 that I am reading.
