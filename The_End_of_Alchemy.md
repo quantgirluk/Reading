@@ -1,6 +1,6 @@
 # The End of Alchemy: Money, Banking and the Future of the Global 
 
-Book written by [Mervin King](https://en.wikipedia.org/wiki/Mervyn_King,_Baron_King_of_Lothbury), British economist and public servant who served as the Governor of the Bank of England from 2003 to 2013. In his own words this books tells you “everything you need to know but were afraid to ask about the causes of the recent crisis. So here goes.”
+This book written by [Mervin King](https://en.wikipedia.org/wiki/Mervyn_King,_Baron_King_of_Lothbury), British economist and public servant who served as the Governor of the Bank of England from 2003 to 2013. In his own words it tells you “everything you need to know but were afraid to ask about the causes of the recent crisis. So here goes.”
 
 
 The book opens with a reference to this fragment from "A Tale of Two Cities" from Charles Dickens.
@@ -19,6 +19,9 @@ we had everything before us, we had nothing before us, we were all going direct 
 
 Excerpt From: Charles Dickens. “A Tale of Two Cities”. 
 
+My favourites quotes per chapter are as follows.
+
+-----
 
 
 ## Introduction 
