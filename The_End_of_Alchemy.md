@@ -28,8 +28,8 @@ My favourites quotes per chapter are as follows.
 
 -----
 
-
-## Introduction <a name="introduction"></a>
+<a name="introduction"></a>
+## Introduction 
 
 “It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity …’
 Charles Dickens, A Tale of Two Cities”
@@ -121,7 +121,8 @@ Notes From: Mervyn King. “The End of Alchemy”. Apple Books.
 
 Check out this book on the Book Store: https://books.apple.com/gb/book/the-end-of-alchemy/id1059399196
 
-## Chapter 1 <a name="ch1"></a>
+<a name="ch1"></a>
+## Chapter 1 
 
 
 
