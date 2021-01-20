@@ -223,7 +223,8 @@ Notes From: Mervyn King. “The End of Alchemy”. Apple Books.
 
 Check out this book on the Book Store: https://books.apple.com/gb/book/the-end-of-alchemy/id1059399196
 
-## Chapter 2 <a name="ch2"></a>
+<a name="ch2"></a>
+## Chapter 2 
 
 
 “The love of money is the root of all evil.’
@@ -316,7 +317,8 @@ Notes From: Mervyn King. “The End of Alchemy”. Apple Books.
 
 Check out this book on the Book Store: https://books.apple.com/gb/book/the-end-of-alchemy/id1059399196
 
-## Chapter 3 <a name="ch3"></a>
+<a name="ch3"></a>
+## Chapter 3 
 
 
 
