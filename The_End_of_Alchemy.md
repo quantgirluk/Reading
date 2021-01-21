@@ -42,18 +42,14 @@ Charles Dickens, A Tale of Two Cities”
 “Since the crisis, many have been tempted to play the game of deciding who was to blame for such a disastrous outcome. But blaming individuals is counterproductive – it leads you to think that if just a few, or indeed many, of those people were punished then we would never experience a crisis again.”
 
 
-
-“There was a general misunderstanding of how the world economy worked”
-
-
-“is it too late to put the genie back in the bottle? No – it is never too late to ask the right questions”
+**“is it too late to put the genie back in the bottle? No – it is never too late to ask the right questions”**
 
 
 “one of the arguments of this book is that economics has encouraged ways of thinking that made crises more probable”
 
 
 
-“Economists have brought the problem upon themselves by pretending that they can forecast. No one can easily predict an unknowable future, and economists are no exception.”
+**“Economists have brought the problem upon themselves by pretending that they can forecast. No one can easily predict an unknowable future, and economists are no exception.”**
 
 
 “A theory adequate for today requires us to think for ourselves, standing on the shoulders of giants of the past, not kneeling in front of them.”
@@ -72,7 +68,8 @@ Charles Dickens, A Tale of Two Cities”
 
 
 
-“slow growth and rising unemployment – the combination known as ‘stagflation”
+📝 *__Concept Alert!__*
+“slow growth and rising unemployment – the combination known as ‘[stagflation](https://en.wikipedia.org/wiki/Stagflation)”
 
 
 
@@ -87,6 +84,7 @@ Charles Dickens, A Tale of Two Cities”
 “Four concepts are used extensively in the book: disequilibrium, radical uncertainty, the prisoner’s dilemma and trust.”
 
 
+📝 *__Concept Alert!__*
 “Radical uncertainty refers to uncertainty so profound that it is impossible to represent the future in terms of a knowable and exhaustive list of outcomes to which we can attach probabilities”
 
 
