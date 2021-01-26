@@ -25,7 +25,7 @@ My favourites quotes per chapter are as follows.
 - [Chapter 1](#ch1)
 - [Chapter 2](#ch2)
 - [Chapter 3](#ch3)
-
+- [Chapter 4](#ch4)
 
 -----
 
@@ -409,6 +409,208 @@ Two features of the balance sheet are striking. First, loans comprise only aroun
 
 
 “Banks had become too big to fail, too big to sail, and too big to jail”
+
+
+Notes From: Mervyn King. “The End of Alchemy”. Apple Books. 
+
+Check out this book on the Book Store: https://books.apple.com/gb/book/the-end-of-alchemy/id1059399196
+
+----
+
+<a name="ch4"></a>
+## Chapter 4 
+
+
+“And what you do not know is the only thing you know
+And what you own is what you do not own
+And where you are is where you are not.
+T.S. Eliot, ‘East Coker’, The Four Quartets
+‘You’ve got to expect the unexpected.’
+Paul Lambert, Aston Villa manager, press conference, 22 November 2013”
+
+
+
+
+“Are we really capable of expecting the unexpected?”
+
+**LTC Failure**
+
+“The return on each transaction was tiny but done on a sufficiently large scale, it generated huge profits.
+The choice of assets was based on sophisticated statistical analysis of high-frequency data over a decade or more. 
+But the data, although voluminous, covered only a short period of history, and when a rare but significant event – the Russian default and devaluation in the summer of 1998 – occurred, past correlations proved a poor guide to asset returns. LTCM failed.”
+“The lesson is that no amount of sophisticated statistical analysis is a match for the historical experience that ‘stuff happens’.”
+
+
+
+“At the heart of **modern macroeconomics** is the same illusion that uncertainty can be confined to the mathematical manipulation of known probabilities.”
+
+
+“Risk, luck, fate, uncertainty, probability theory – we all have names for the game of chance.”
+
+
+“Most decisions in life involve risk. Sometimes we embrace it, as when we enjoy a bet on the Grand National or the Super Bowl, and sometimes we avoid it, as when we insure our houses against fire. The playing of the hand we are dealt can be a pleasure in a game of bridge and a burden in life”
+
+
+
+“Down the ages, quack doctors selling patent medicines and astrologers selling predictions have been in strong demand. Added to their number today are economists selling forecasts, reflecting a desire for certainty that is as irrational as it is understandable.”
+
+
+“At the start of the crisis in August 2007, the Chief Financial Officer of Goldman Sachs, David Viniar, said that the losses suffered on one of their hedge funds implied that ‘we were seeing things that were 25-standard deviation moves, several days in a row’.3 That certainly is extreme, since such moves should occur even less often than once every 13 billion years, or the time elapsed since the creation of the universe!”
+
+
+
+“The difficulty we have in confronting uncertainty, and our strong desire to control our own lives, lead to seemingly irrational decisions. After the terrorist attacks on New York on 11 September 2001, many Americans stopped flying for a period and drove instead. Traffic on interstate highways rose 5 per cent in the three months after the attack, and it took a year before normal patterns of travel were resumed. In that period, around 1600 Americans lost their lives in road accidents because of the switch from flying to driving, some 50 per cent of the death toll incurred on 9/11 itself.6”
+
+
+“Select around six thousand names and addresses from the London or New York telephone directory. Divide the names into two groups. To the first group, send a letter predicting that the market will rise over the coming week. To the second, write predicting a fall in the market. At the end of the week keep the three thousand or so names who were given the correct prediction and discard the others. Divide those names in turn into two groups. To the first, predict a rise in the market and to the second, a fall. Repeat this process for five weeks, at which point there will be around 200 people to whom the following letter could be sent: ‘You may well have been sceptical when you received our first letter, but by now you will know that we have indeed found the secret of predicting successfully the direction of movement of the stock market. You know that our method really works. To subscribe to our investment service please send £5000 by return.”
+
+
+
+“Coping with uncertainty is by no means straightforward, even for the most highly trained professionals. As Voltaire put it, ‘Doubt is not a pleasant condition, but certainty is an absurd one.'”
+
+
+“In this world nothing can be said to be certain, except death and taxes,’ wrote Benjamin Franklin in 1789”
+
+
+“In 1798, life expectancy in Britain was around forty. Today it is over eighty, and even higher for women. We simply do not know how life expectancy will change in the future.11 Developments in medical science, especially the results of stem-cell research, may enhance the prospects for life expectancy radically, and new infectious diseases may have the opposite effect.”
+
+
+
+“Good judgement rather than statistical extrapolation is key to making assessments about changes not only in longevity but in many economic and social variables”
+
+Note: What about modern statistical models with understanding and quantification of the assumtptions.
+
+
+
+
+“Neither producers nor consumers can know what options will be available to them in the future, and so they cannot express preferences in markets that might provide a guide to investment decisions. The markets are simply missing. And how tedious it would be if we could imagine what the future holds. Uncertainty – radical uncertainty – is the spice of life.”
+
+
+
+
+“The main defence of the theory of optimising behaviour is the one provided by Milton Friedman in 1953, when he compared people making economic decisions with billiards or snooker players who do not understand Newtonian mechanics, but play as if they did.15”
+
+
+
+
+“But we know that when computers play chess, they do so differently from human beings. The former make millions of calculations; the latter make intuitive leaps of imagination.”
+
+
+
+
+“Human capacity for making conscious calculations is bounded, but the ability of the human brain to engage in lateral thinking is well developed. People are better than computers at recognising faces.”
+
+
+
+
+“The language of optimisation is seductive. But humans do not optimise; they cope. They respond and adapt to new surroundings, new stimuli and new challenges. The concept of coping behaviour does not, however, mean that people are irrational. On the contrary, coping is an entirely rational response to the recognition that the world is uncertain.”
+
+
+
+
+“The strength of economics as a social science is the belief that people will attempt to behave rationally. The challenge is to work out how a rational person might cope with radical uncertainty. People aren’t dumb. It is just that in a world of radical uncertainty even smart people do not find it easy to know what it means to behave in a smart manner.”
+
+
+
+
+“behavioural economics’, a relatively new field often associated with Daniel Kahneman, Richard Thaler and Amos Tversky. It studies the emotional and psychological dimensions of economic choices.”
+
+
+
+“The stock market is a good example of the tendency of economists ‘to excel in hindsight (fitting) but fail in foresight (prediction)’.23”
+
+
+
+“Tuckett sees them as engaging in a continuous two-way communication. As he argues, ‘emotion exists to help economic human actors when reason alone is insufficient’.24 In other words, emotions help us to cope with an unknowable future and should not be seen as ‘irrational’.”
+
+
+
+“Once we are liberated from the view that there is a single optimising solution, rules of thumb – technically known as heuristics – are better seen as rational ways to cope with an unknowable future. A heuristic is a decision rule that deliberately ignores information. It does so not just because humans are not computers, but because it is rational to ignore information when we do not understand how the world works”
+
+
+
+“Humans are not pre-programmed to solve complex mathematical optimising problems, because it is impossible to know in advance which problems they will need to solve. But they are programmed to learn and to adapt”
+
+
+
+
+“A coping strategy comprises three elements – a categorisation of problems into those that are amenable to optimising behaviour and those that are not; a set of rules of thumb, or heuristics, to cope with the latter class of problems; and a narrative.”
+
+
+
+
+“When we cannot write down a mathematical model with numerical probabilities, we can nevertheless think and talk about the future in qualitative terms.”
+
+
+
+
+“The first concerns J.P. Morgan and its British-born banker Sir Dennis Weatherstone, who started as a bookkeeper at the age of sixteen and rose to become CEO in 1990. The challenge was how to decide which of the many new and obscure financial products suggested by the traders and mathematicians on its staff the firm should sell to its clients. With no past history for the performance of those products, there was no basis for judging which ones were likely to be effective. The new products were an example of radical uncertainty. The strategy Weatherstone employed was to make sure that any new product was understood by senior management. The narrative underlying the strategy was that if the product could be explained in a conversation among senior managers then there was less risk that something might go badly wrong. Weatherstone, I was told, would give the inventors three slots of fifteen minutes to explain the product to him. If at the end of that he still did not understand the product, the firm would not sell it.28 In 2008 there must have been many executives who wished they had followed Weatherstone’s heuristic.”
+
+
+
+
+“A useful heuristic for managers and regulators alike is to probe not only those parts of a business that are losing a lot of money but also those that are making a lot.”
+
+
+
+“are assumed not to default on their debt – an assumption that might have looked reasonable when the standards were drawn up after long negotiations among many countries, but looked decidedly odd during the euro area crisis from 2012 onwards”
+
+
+
+“Risk-weighted capital requirements appealed to many of my international colleagues because risk was explicitly incorporated into the calculation. But if the nature of the uncertainty is unknown, then the use of such measures can be highly misleading. It is better to be roughly right than precisely wrong, and to use a simple but more robust measure of required capital.”
+
+
+
+“Heuristics are better than so-called optimising solutions that assume the wrong model. In the case of bank regulation, it is better to use a measure of leverage rather than a ratio of capital to risk-weighted assets. Leverage ratios measure capital relative to total (unweighted) assets.”
+
+
+
+
+“What is the purpose of all these financial markets? They channel household savings into business investment, at home and abroad. They make it possible to share risk by giving us the opportunity to insure, hedge, or even speculate, against future events. And they provide continuous valuations – a financial running commentary – of the myriad activities that make up our economy.”
+
+
+
+
+“Derivatives typically involve little up-front payment and are a contract between two parties to exchange a flow of returns or commodities in the future. The principle of derivative instruments is simple, but if you want to make it complicated there are many lawyers, and investment bankers who will help you – at a (significant) price.”
+
+
+
+
+“It is rather like watching two old men playing chess in the sun for a bet of $10, as one can in Washington Square in New York, and then realising that they are watched by a crowd of bankers who are taking bets on the result to the tune of millions of dollars. The scope for introducing risk into the system rather than sharing it around is obvious. And that is why Warren Buffett described derivatives as ‘financial weapons of mass destruction’.34”
+
+
+
+
+“By adopting the modern accounting convention of valuing the new instruments by ‘marking to market’ – that is, valuing assets at the latest observed price and including all changes in asset values as profits – optimism about the future, whether justified or not, created large recorded profits from the trading of these new securities”
+
+
+
+
+“Indeed, once markets realised that different banks had different risks of failure then the whole concept of a single interbank borrowing rate became meaningless. Does this matter? Yes – because LIBOR is used as a reference rate in drawing up derivative contracts worth trillions of dollars. The benchmark interest rate used in those contracts had shallow foundations and in a storm it just blew down.”
+
+
+
+
+“But at times in 2007–8 there were so few transactions in the interbank market that any quote submitted would have been hypothetical. An understandable response by some banks was to withdraw from the panel to which quotes were reported, only to discover that while being investigated by regulators for the submission of false quotes, they were also being told that they had to keep submitting quotes with no basis in reality. LIBOR has had its day.42”
+
+
+
+
+“The Austrian economist Joseph Schumpeter coined the phrase ‘creative destruction’ for the way a capitalist economy promotes investment in new ideas and ventures, undermining investments in earlier undertakings.44”
+
+
+
+
+“Keynes’s description of the stock market has become famous:
+… professional investment may be likened to those newspaper competitions in which the competitors have to pick out the six prettiest faces from a hundred photographs, the prize being awarded to the competitor whose choice most nearly corresponds to the average preferences of the competitors as a whole; so that each competitor has to pick, not those faces which he himself finds prettiest, but those which he thinks likeliest to catch the fancy of the other competitors, all of whom are looking at the problem from the same point of view. It is not a case of choosing those which, to the best of one’s judgment, are really the prettiest, nor even those which average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion expects the average opinion to be. And there are some, I believe, who practise the fourth, fifth and higher degrees.45”
+
+
+
+“Central to a capitalist economy is the fact that the future cannot be seen as a game of chance in which the only source of uncertainty is on which number the wheel of fortune will come to rest. The future is simply unknowable. And in a capitalist economy, money, banking and financial markets are institutions that have evolved to provide a way of coping with an unpredictable future. They are the real-world substitute for the economic theorist’s concept of a grand auction.”
+
+
+
+“Money is not just a means of buying ‘stuff’ but a way of dealing with an uncertain future. A rise in the desire for a reserve of generalised future purchasing power lowers spending today, and can lead to a recession or even a depression.”
 
 
 Notes From: Mervyn King. “The End of Alchemy”. Apple Books. 
