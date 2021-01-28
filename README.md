@@ -4,7 +4,7 @@ Quotes, notes, and random thoughts from the books 📚 and academic papers 📝 
 1. [The End of Alchemy: Money, Banking, and the Future of the Global Economy](https://github.com/quantgirluk/Reading/blob/main/The_End_of_Alchemy.md) by Mervin King.
 
 
-# Next
+# Wish List
 
 - The Beauty Myth: How Images of Beauty are Used Against Women, Naomi Wolf
 - Algorithms to Live By: The Computer Science of Human Decisions
