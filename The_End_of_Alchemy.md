@@ -26,6 +26,7 @@ My favourites quotes per chapter are as follows.
 - [Chapter 2](#ch2)
 - [Chapter 3](#ch3)
 - [Chapter 4](#ch4)
+- [Chapter 5](#ch5)
 
 -----
 
@@ -611,6 +612,301 @@ Note: What about modern statistical models with understanding and quantification
 
 
 “Money is not just a means of buying ‘stuff’ but a way of dealing with an uncertain future. A rise in the desire for a reserve of generalised future purchasing power lowers spending today, and can lead to a recession or even a depression.”
+
+
+Notes From: Mervyn King. “The End of Alchemy”. Apple Books. 
+
+Check out this book on the Book Store: https://books.apple.com/gb/book/the-end-of-alchemy/id1059399196
+
+---
+<a name="ch5"></a>
+## Chapter 5
+
+
+20 January 2021 (page page_156)
+
+“There have been three great inventions since the beginning of time: fire, the wheel, and central banking.’
+Will Rogers, American actor and social commentator, 1920
+‘I promise on demand to pay,’ affords,
+A sort of fascinating sounding words;
+And if I’m not the most deceiv’d on earth,
+The sound they make is nearly all they’re worth.
+Anonymous, The Siege of Paternoster Row, 1826”
+
+
+21 January 2021 (page page_158)
+
+“In his bestseller The Lords of Finance, Liaquat Ahmed describes the four shadowy central bank governors who led the world into, and eventually out of, the Great Depression. Eighty years later, the equivalent group of governors, of which I was one, confronted an equally difficult challenge. But the difference was that in the build-up to the crisis that started in 2007, central banks had come out of the shadows into the sunlight. They were embarking on a journey from mystery and mystique to transparency and openness”
+
+
+21 January 2021 (page page_158)
+
+“Money and banking may seem boring technical topics. But they generate more than enough excitement when things go wrong.”
+
+
+21 January 2021 (page page_159)
+
+“The first central bank was the Riksbank in Sweden, set up in 1668. To celebrate its tercentenary it endowed the Nobel Prize in Economic Science. But the Riksbank did not acquire its name until 1867 and was really only a commercial bank until 1897.3”
+
+
+21 January 2021 (page page_159)
+
+“The oldest central bank in continuous existence, the Bank of England, opened for business in 1694 to help the government finance military expenditure. Its tercentenary was a more low-key event: it held a concert and published a book of conference proceedings”
+
+
+21 January 2021 (page page_159)
+
+“The United States had two false starts in central banking – with the First Bank of the United States between 1791 and 1811 and the Second Bank of the United States between 1816 and 1836 – before Congress legislated in 1913 to set up the Federal Reserve, which opened for business in 1914.4”
+
+
+21 January 2021 (page page_159)
+
+“Before recommending the establishment of the Federal Reserve System – a plan which it described as ‘essentially an American system, scientific in its methods, and democratic in its control’ – the Commission produced twenty-two volumes on monetary and banking systems elsewhere, especially in Europe. A complete set sits proudly in the Governor’s anteroom in the Bank of England. The authors noted that ‘the important place which the Bank of England holds in the financial world is due to the wisdom of the men who have controlled its operations and not to any legislative enactments”
+
+
+23 January 2021 (page page_161)
+
+“After the experience of banking crises in the late nineteenth and early twentieth centuries, Congress was persuaded that a central bank was both constitutional and a good idea.”
+
+
+23 January 2021 (page page_163)
+
+“Experience has demonstrated the importance of a public body – normally the central bank – responsible for two key aspects of the management of money in a capitalist economy. The first is to ensure that in good times the amount of money grows at a rate sufficient to maintain broad stability of the value of money, and the second is to ensure that in bad times the amount of money grows at a rate sufficient to provide the liquidity – a reserve of future purchasing power – required to meet unpredictable swings in the demand for it by the private sector”
+
+
+23 January 2021 (page page_163)
+
+“Those two functions are rather simple to state, if hard to carry out. They correspond to the twin objectives of price stability and the provision of liquidity by a ‘lender of last resort’.”
+
+
+23 January 2021 (page page_163)
+
+“Lenin is alleged to have remarked that the best way to destroy capitalism is to debauch the currency. To judge by the subsequent experience in Europe after the First World War, he was right.”
+
+
+23 January 2021 (page page_164)
+
+“In the twenty-five years before the Bank of England adopted an inflation target in 1992, prices rose by over 750 per cent, more than over the previous two hundred and fifty years.12 Inflation was simply taken for granted. Price stability seemed an unlikely state of affairs.”
+
+
+23 January 2021 (page page_164)
+
+“Alan Blinder, the Princeton economist who was Greenspan’s deputy at the Federal Reserve Board, put it even more clearly. Price stability, he said, was ‘when ordinary people stop talking and worrying about inflation’.14”
+
+
+23 January 2021 (page page_167)
+
+“Our inability to identify in advance the challenges that will arise in managing money means that it is sensible, indeed unavoidable, to grant the central bank a degree of discretion in responding to unfolding events. This is the basic idea behind inflation targeting, which originated in New Zealand in 1990. The idea soon spread to Canada in 1991 and the United Kingdom in 1992. The aim was to hold the central bank to account for achieving a numerical target for inflation over a specified period”
+
+
+23 January 2021 (page page_168)
+
+“The overriding concern of central banks is not to eliminate fluctuations in consumer price inflation from year to year, but to reduce the degree of uncertainty over the price level in the long run. People will then stop worrying about inflation.”
+
+
+23 January 2021 (page page_168)
+
+“An inflation-targeting monetary policy is a combination of two elements: (a) a target for inflation in the medium term and (b) a response to economic shocks in the short term”
+
+
+24 January 2021 (page page_168)
+
+“Monetary policy rules have become a major area of research.20 Perhaps the most famous is the so-called Taylor rule, named after John Taylor of Stanford University. The Taylor rule implies that interest rates should rise if inflation is above its target and output is above its trend level, and fall when the converse is true”
+
+
+24 January 2021 (page page_168)
+
+“In 2014, Representatives Scott Garrett and Bill Huizenga introduced a bill that would require the Federal Reserve to provide Congress with ‘a clear rule to describe the course of monetary policy’.21 Such a rule would be a mathematical formula showing how the Fed would adjust interest rates in response to changes in the economy.”
+
+
+24 January 2021 (page page_169)
+
+“Delegating policy to an independent central bank operating under a well-specified regime of ‘constrained discretion’ was seen as the answer to the unappealing choice between adopting a fixed rule and giving unfettered discretion to an independent body. Such a framework required a clear definition of the constraints to be imposed on central banks. One was a numerical target for inflation, and a second was the establishment of a regime under which central banks could be held accountable for their decisions”
+24 January 2021 (page page_170)
+
+“The great attraction of an inflation target is that it is a framework that does not have to be changed each time we learn something new about how the economy behaves.”
+
+
+24 January 2021 (page page_172)
+
+“those who believe that central banks should focus at least as much on ‘financial stability’ as on ‘price stability’, meaning that monetary policy can and should try to affect much more than just short-run movements in inflation. The difficulty with this proposition is that failure to achieve financial stability covers a multitude of sins. It may reflect the consequence for asset prices of ‘mistakes’ by economic agents – the rapid increases often loosely described as ‘bubbles’. Or it may reflect excessive fragility in the banking sector resulting from excessively high leverage and interconnectedness”
+
+
+24 January 2021 (page page_173)
+
+“Macro-prudential instruments include direct controls on financial markets – for example, setting limits on the size of mortgage loans relative to incomes – and indirect controls – such as requiring banks to use more equity finance if they increase lending to areas that are judged particularly risky”
+
+
+25 January 2021 (page page_173)
+
+“Before the crisis, central banks believed that their role was not to enter into the allocation of resources, but rather to guide the economy by sending price signals (in the form of interest rates) about the appropriate relative prices of spending today and in the future. Today, the use of measures to intervene in particular asset markets is all the rage”
+
+
+25 January 2021 (page page_175)
+
+“During my time at the Bank of England, it became apparent that politicians and central bank governors were on a divergent path. As they try to make an impression on the electorate, politicians have become taller and taller, whereas central bank governors have become shorter and shorter”
+
+
+25 January 2021 (page page_176)
+
+“This observation leads to what we might call the Maradona theory of interest rates. The great Argentine footballer, Diego Maradona, is not usually associated with the theory of monetary policy. But his performance against England in the World Cup in Mexico City in June 1986 when he scored twice is a perfect illustration of my point. Maradona’s first ‘hand of God’ goal, when he deliberately punched the ball into the England net unseen by the referee, was obviously against the rules. He was lucky to get away with it. His second and quite brilliant goal, however, was an example of the power of expectations. Maradona ran sixty yards from inside his own half, beating five players before shooting into the English goal. The truly remarkable thing, however, is that, as cameras positioned above the stadium showed, Maradona ran virtually in a straight line. How can you beat five players by running in a straight line? The answer is that the English defenders reacted to what they expected Maradona to do. Because they expected Maradona to move either left or right, he was able to go straight on.
+Monetary policy works in a similar way. Market interest rates react to[…]”
+
+25 January 2021 (page page_177)
+
+“In recent years there have been periods in which central banks have been able to influence the path of the economy without making large moves in official interest rates. They headed in a straight line for their goals. How was that possible? Because financial markets did not expect interest rates to remain constant. They expected that rates would move either up or down.”
+
+
+25 January 2021 (page page_177)
+
+“Maradona theory of interest rates in action was seen in the UK in 2002. During that year the Bank of England was able to achieve its inflation target by moving in a straight line with unchanged official interest rates”
+
+
+25 January 2021 (page page_178)
+
+“It should be clear that, just as Maradona could not hope to score in every game by running towards goal in a straight line, so monetary policy cannot hope to meet the inflation target by leaving official interest rates unchanged indefinitely.”
+
+
+25 January 2021 (page page_178)
+
+“But the key point is that the power of expectations about future rates can often be more important than the current level of the official interest rate itself.”
+
+
+25 January 2021 (page page_178)
+
+“The old world was illustrated by Lord Cunliffe, the Governor of the Bank of England during the First World War, who, when giving evidence before a Royal Commission on the size of the Bank of England’s gold and foreign exchange reserves, replied that they were ‘very, very considerable’. When pressed by the commission to give an approximate figure, he replied that he would be ‘very, very reluctant to add to what he had said’. Today the figures are published monthly.”
+
+
+25 January 2021 (page page_178)
+
+“Until February 1994, believe it or not, the Federal Reserve did not even reveal what the official interest rate was, or whether it had changed. Analysts and researchers had to infer from market interest rates whether or not the Federal Reserve had changed policy. Today, the Federal Reserve publishes the decision of each meeting along with minutes of the discussion and reasons for its actions.”
+
+
+25 January 2021 (page page_179)
+
+“In any policy setting, there has to be room for private conversations. There are limits to the desirable degree of transparency.”
+
+
+25 January 2021 (page page_179)
+
+“It is also important for central banks to be honest about what they do not know. A case in point was the recent, and rather short-lived, experiment in ‘forward guidance’ adopted by the Federal Reserve and the Bank of England in 2013. Both central banks wanted to provide more information about the likely future path of official interest rates. In the first instance, this was a laudable attempt to reduce uncertainty about how they might respond to developments in the economy. But it soon became an attempt to predict the future path of interest rates.”
+
+
+25 January 2021 (page page_180)
+
+“To retain credibility, it is important that central banks do not claim to know more than they in fact do. And it is clear that central banks are not able to provide accurate forecasts of their own actions. Policy must confront the fact that ‘stuff happens’.”
+
+
+25 January 2021 (page page_180)
+
+“Making forecasts is inherently difficult. They always turn out to be wrong. The most egregious example of wrong forecasts by central banks was the prediction before the crisis that the Great Stability would continue. Central banks were using forecasting models that ignored the lessons explored in Chapter 4.”
+
+
+25 January 2021 (page page_180)
+
+“Reducing interest rates stimulates the demand for borrowing and if banks increase their lending, the supply of bank deposits rises. That pushes up the money supply.”
+
+
+26 January 2021 (page page_181)
+
+“Instabilities in the demand for money are not new. In the early years of the Bank of England, there were unexpected shifts in the demand for money and credit resulting from the uncertain arrival times in the Port of London of ships laden with commodities from all over the world. The uncertainty derived from changes in the direction and speed of the wind carrying ships up the Thames. To cope with this, the Court Room of the Bank of England contained a wind dial linked to a weather vane on the roof, which provided an accurate guide to these shifts in money demand – the weather vane is there to this day, and it still works. If only monetary policy could be as scientific today!”
+
+
+26 January 2021 (page page_182)
+
+“The method used to create money was to buy government bonds from the private sector in return for money.28 Those bond purchases were described by many commentators as ‘unconventional’ monetary policies and became known as ‘quantitative easing’, or QE”
+
+
+26 January 2021 (page page_182)
+
+“For open market operations to exchange money for government securities have long been a traditional tool of central banks, and were used regularly in the UK during the 1980s, when they were given the descriptions ‘overfunding’ and ‘underfunding’.29 What was new in the crisis was the sheer scale of the bond purchases – £375 billion by the Bank of England, almost 20 per cent of GDP, and $2.7 trillion by the Federal Reserve, around 15 per cent of GDP.”
+
+
+26 January 2021 (page page_183)
+
+“Ben Bernanke, then Chairman of the Federal Reserve, said in January 2014 that ‘the problem with QE is it works in practice, but it doesn’t work in theory’.31 Perhaps there was a problem with the theory.”
+
+
+30 January 2021 (page page_184)
+
+“When the yield curve is completely flat, central banks may still create money by purchasing assets other than government bonds – either private sector assets, such as corporate bonds, or overseas currencies (the latter was the main strategy pursued by the Swiss National Bank in a vain attempt to prevent a sharp appreciation of the Swiss franc against the euro)”
+
+
+26 January 2021 (page page_186)
+
+“Inflation is not a beast that can be killed once and for all. Success is a matter of the patient application of policies designed to maintain price stability. Central bankers are like doctors – they need to be on top of the latest technical developments, have several years of experience and a good bedside manner. Even then, it may be impossible to do much more than avoid big mistakes and promote a healthy way of living. Stability is like dieting – it is no good alternating between binge and starvation, boom and bust. It is necessary to follow a few principles consistently and in a sustained manner. Inflation targeting represented a healthy way of living for central banks charged with the task of ensuring monetary stability.33 Accountability and transparency provide the incentives for central banks to meet the inflation target.”
+
+
+30 January 2021 (page page_187)
+
+“Over the past 150 years the conventional wisdom has been that central banks should stand ready to be the ‘lender of last resort’ (LOLR) and supply liquidity to the banking system when the public loses confidence in one or more banks.”
+
+
+30 January 2021 (page page_187)
+
+“It is a little-known, though not uninteresting, fact that the Wimbledon Championships are viewed in more countries than belong to the International Monetary Fund, and they are certainly more entertaining than the Annual Meetings of the IMF.”
+
+
+30 January 2021 (page page_188)
+
+“Lombard Street. Setting out the doctrine of the LOLR – lend freely against good collateral at a penalty rate to banks facing a run – it became the bible for central bankers wondering how to respond to financial crises. Ben Bernanke at the Federal Reserve, and other central bank governors, often referred to Bagehot when explaining the measures they had taken to support banks during the recent crisis.35”
+
+
+30 January 2021 (page page_190)
+
+“One of the unique roles of central banks is the ability to create ‘liquidity’.41 Banks create money, but if people lose faith in banks, the ultimate form of money is that created by the central bank – provided it is backed by the tax-raising power of a solvent government.”
+
+
+30 January 2021 (page page_191)
+
+“The expressions ‘lender of last resort’ and ‘bailout’ have become synonymous. It is only a matter of time before there is a demand for a LOLR for the Bank of Mum and Dad.”
+
+
+30 January 2021 (page page_192)
+
+“The provision of insurance without a proper charge is an incentive to take excessive risks – in modern jargon, it creates ‘moral hazard”
+
+
+30 January 2021 (page page_193)
+
+“So what happened in 1914? Historians have long documented the prevailing disbelief in the likelihood of a European war. Among other things, the economic cost would simply be too high.”
+
+
+30 January 2021 (page page_194)
+
+“Even after the assassination of Archduke Franz Ferdinand (heir to the Austro-Hungarian throne) in Sarajevo on 28 June 1914, there was barely a ripple in London markets. It was almost a month before financial markets woke up to the significance of the unfolding political events, and it was the ultimatum from Austria to Serbia (demanding that Serbia take draconian steps to suppress the expression of nationalist opinions) on 23 July that finally changed sentiment.
+The next two weeks saw panic in markets and among banks. European stock markets fell sharply, and several were closed. There was a flight to safety, especially to cash, and liquidity dried up in all major markets, including those for foreign exchange, stocks and shares. Three-month interest rates more than doubled. At 10.15 a.m. on Friday 31 July the London Stock Exchange was closed in order to postpone settlement of transactions and thereby prevent a wave of failures among its members as prices plummeted.”
+
+
+30 January 2021 (page page_194)
+
+“As Keynes later put it, ‘the banks revived for a few days the old state, of which hardly a living Englishman had a memory, in which the man who had £50 in a stocking was better off than the man who had £50 in a bank’.49”
+
+
+30 January 2021 (page page_195)
+
+“The start of the First World War saw the end of the period during which most countries had fixed the price of their currency in terms of gold (and hence to each other) – the gold standard”
+
+
+30 January 2021 (page page_196)
+
+“During that earlier crisis, John Pierpoint Morgan had added to his fame by organising a private consortium of banks to lend to banks under suspicion, so averting a major collapse of the banking system, though other banks did suspend payments and there was a sharp contraction of the US economy. From that experience came the impetus to create the Federal Reserve System, which would be able to lend to banks that were temporarily short of funds – to act as a lender of last resort – obviating the need for a Morgan or similar to organise a private consortium to prevent a banking failure.”
+
+
+31 January 2021 (page page_207)
+
+“Despite some ups and downs, central banks are starting this century well ahead of where they were a century ago. There are more of them, and they have greater power and influence. But has their reputation peaked? Will future historians look back on central banks as a phenomenon largely of the twentieth century? Although central banks have matured, they have not yet reached old age. But their extinction cannot be ruled out altogether. Societies have managed without central banks in the past”
+
+
+31 January 2021 (page page_207)
+
+“Before the crisis, central banking seemed rather simple. There was a single objective – price stability – and a successful framework within which to make decisions on interest rates – inflation targeting. It seemed a successful coping strategy. Communication became more important, and central banks moved from mystery and mystique to transparency and openness. During the crisis, however, many of those assumptions were challenged, as we learned how inadequate our understanding of the economy and the financial system was. There is more to managing the economy than hitting a target for consumer price inflation. Most of the models used by central banks to forecast the economy proved deficient in explaining the disequilibrium in their own and the world economy, as described in Chapter 1. As a result, policy-makers failed to realise that the period of low inflation and steady growth during the Great Stability was unsustainable, and would probably come to an end with a crash of some sort.”
+
+
+31 January 2021 (page page_209)
+
+“There is a risk in expecting more from central banks than they can, in fact, deliver. Some people seem to believe that central banks are the answer to all of our economic problems – the ‘only game in town’. Any central bank that allows itself to be described as the ‘only game in town’ would be well advised to get out of town. In the end, expecting too much from central banks will produce disillusionment with the central bank independence that played such an important role in the conquering of inflation. With careful design of the mandate for central banks they can continue to be one of the three great inventions since the beginning of time.”
+
 
 
 Notes From: Mervyn King. “The End of Alchemy”. Apple Books. 
